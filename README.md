@@ -8,7 +8,7 @@ Objectives:
 ** Create task forces to address specific problems
 
 Format:
-* Regular meetings
+* [Regular meetings](https://github.com/single-cell-OPEN-group/State-of-the-art-analyses/issues)
 * Discussion space: [issues](https://github.com/single-cell-OPEN-group/State-of-the-art-analyses/issues)
 * Know-how resource: [wiki](https://github.com/single-cell-OPEN-group/State-of-the-art-analyses/wiki)
 * Dev/benchmark resource: [datasets](https://github.com/single-cell-OPEN-group/State-of-the-art-analyses/issues) and GitHub repos
