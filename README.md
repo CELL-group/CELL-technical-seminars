@@ -1,4 +1,4 @@
-# State-of-the-art-analyses
+# CELL technical seminars
 Single-cell OPEN group [wiki](https://github.com/single-cell-OPEN-group/State-of-the-art-analyses/wiki) about state of the art for the different single-cell usual analysis steps.
 
 Objectives:
