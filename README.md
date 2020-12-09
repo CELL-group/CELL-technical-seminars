@@ -1,6 +1,6 @@
 # The CELL technical seminar series
 
-The Curie-ESPCI-Ligue Contre le Cancer (CELL) single-cell analysis group organizes technical seminars once a month to discuss methodological aspects of single cell -omics data analysis. The CELL seminar series is organised by Aurélien de Reynies (Ligue Contre le Cancer), Jason Cosgrove (Institut Curie), and Josh Waterfall (Institut Curie). 
+The Curie-ESPCI-Ligue Contre le Cancer (CELL) single-cell analysis group maintains a [know-how wiki](https://github.com/single-cell-OPEN-group/State-of-the-art-analyses/wiki) about state of the art for the different single-cell usual analysis steps. Moreover technical seminars are organizaed once a month to discuss methodological aspects of single cell -omics data analysis. The CELL seminar series is organised by Aurélien de Reynies (Ligue Contre le Cancer), Jason Cosgrove (Institut Curie), and Josh Waterfall (Institut Curie). 
 
 
 Our aim is to create a friendly community to improve the quality of our single cell analyses and to promote more formal collaborations within the group.  Biological context of particular projects is important to describe, but the point of this series is to focus on the computational analysis methods, not the biology. We acknowledge that many times in research things do not work and so strongly encourage people to share negative, as well as positive, data such that we can all learn from it. These meetings are open to all and are a rotating schedule of talks which follow a defined format: 
@@ -16,7 +16,7 @@ a.	Journal club presentation
 b.	MSc. student presentations
 c.	Annual review of the major technical advances in the field from the previous 12 months and highlight technologies to look out for in the coming 12 months.
 
-A listing of the seminars can be found on the group github page (https://github.com/single-cell-OPEN-group/CELL-technical-seminars). In addition, our listing comprises a list of all contributors to the group with a short bio of their experience and expertise, as well as contact details and links to their code repositories. Lastly, we are very fortunate to host internationally renowned speakers throughout the year and organize informal but technically focused discussions about single cell data analysis over coffee. We also have a wiki(https://github.com/single-cell-OPEN-group/State-of-the-art-analyses/wiki) about state of the art for the different single-cell usual analysis steps.
+A listing of the seminars can be found on the group github page (https://github.com/single-cell-OPEN-group/CELL-technical-seminars). In addition, our listing comprises a list of all contributors to the group with a short bio of their experience and expertise, as well as contact details and links to their code repositories. Lastly, we are very fortunate to host internationally renowned speakers throughout the year and organize informal but technically focused discussions about single cell data analysis over coffee.
 
 
 Useful Links:
