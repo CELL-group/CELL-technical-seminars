@@ -1,4 +1,4 @@
-# CELL technical seminars
+# The CELL technical seminar series
 
 The Curie-ESPCI-Ligue Contre le Cancer (CELL) single-cell analysis group organizes technical seminars once a month to discuss methodological aspects of single cell -omics data analysis. The CELL seminar series is organised by Aurélien de Reynies (Ligue Contre le Cancer), Jason Cosgrove (Institut Curie), and Josh Waterfall (Institut Curie). 
 
