@@ -11,7 +11,7 @@ Our aim is to create a friendly community to improve the quality of our single c
 
 **3)	Pipeline/Method review:** If someone is finishing a paper and would like to present their bioinformatics pipeline/new method to the rest of the group for feedback. This talk should focus on technical aspects of the pipeline/method and less about the scientific outputs. E.g. if you perform pseudotime analysis of your data you should discuss why you chose algorithm X rather than algorithm Y. 
 
-4)	Open format: This broader category may comprise one of the following 
+**4)	Open format:** This broader category may comprise one of the following 
 a.	Journal club presentation
 b.	MSc. student presentations
 c.	Annual review of the major technical advances in the field from the previous 12 months and highlight technologies to look out for in the coming 12 months.
