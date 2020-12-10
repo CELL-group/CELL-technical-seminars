@@ -20,7 +20,7 @@ A listing of the seminars can be found on the group github page (https://github.
 
 
 Useful Links:
-- [Regular meetings](https://github.com/single-cell-OPEN-group/State-of-the-art-analyses/issues)
+- [Regular meetings](https://github.com/single-cell-OPEN-group/CELL-technical-seminars/wiki/References#single-cell-group-talks)
 - Discussion space: [discussion](https://github.com/single-cell-OPEN-group/State-of-the-art-analyses/discussions)
-- Know-how resource and researcher bio's: [wiki](https://github.com/single-cell-OPEN-group/State-of-the-art-analyses/wiki)
-- Dev/benchmark resource: [datasets](https://github.com/single-cell-OPEN-group/State-of-the-art-analyses/issues) and GitHub repos
+- Wiki: [Know-how resource](https://github.com/single-cell-OPEN-group/CELL-technical-seminars/wiki) and [member bio's](https://github.com/single-cell-OPEN-group/State-of-the-art-analyses/wiki)
+- Dev/benchmark resource: [datasets](https://github.com/single-cell-OPEN-group/CELL-technical-seminars/wiki/References#dataset-resources) and GitHub repos
