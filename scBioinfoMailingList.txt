@@ -8,9 +8,7 @@ celine.vallot@curie.fr
 yann.kieffer@curie.fr
 anne-marie.lyne@curie.fr
 leila.perie@curie.fr
-solene.brohard@curie.fr
 jason.cosgrove@curie.fr
-olivier.mirabeau@curie.fr
 elise.amblard@curie.fr
 mengliang.ye@curie.fr
 maria-ares.rocanin-arjo@curie.fr
@@ -18,7 +16,6 @@ martin.mestdagh@curie.fr
 mercia.ngoma@curie.fr
 julien.vibert@curie.fr
 almut.eisele@curie.fr
-giulio.prevedello@curie.fr
 christel.goudot@curie.fr
 marc.deloger@curie.fr
 yoann.missolo-koussou@curie.fr
