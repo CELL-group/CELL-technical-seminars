@@ -99,7 +99,7 @@ emmanuel.barillot@curie.fr
 sebastien.lemaire@curie.fr
 lucile.massenet@inserm.fr
 linda.bilonda-mutala@curie.fr
-anne-laure.le-gac@curie.fr
+anne-laure.le-gac@curie.f
 coline.gardou@minosbiosciences.com
 juliette.soulier@curie.fr
 hugo.laporte@curie.fr
@@ -110,8 +110,10 @@ melissa.saichi@curie.fr
 julien.vibert@curie.fr
 jing.liu@curie.fr
 christophe.caux@lyon.unicancer.fr
-vtlm@curie.fr
 SarahHelene.MERKLING@pasteur.fr
 Elodie.Girard@curie.fr
 calvin-steve.rodrigues@curie.fr
 leanne.de-koning@curie.fr
+loic.chadoutaud@curie.fr
+thomas.defard@curie.fr
+ines.pires-santos-ramos-pinheiro@curie.fr
