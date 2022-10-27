@@ -119,3 +119,4 @@ CB_UTechS_team@pasteur.fr
 single_cell@pasteur.fr
 helene.lopez-maestre@pasteur.fr
 yuna.landais@curie.fr
+Margaux.HUBERT@lyon.unicancer.fr
