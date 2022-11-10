@@ -1,4 +1,3 @@
-olivier.piau@inserm.fr
 paul.gueguen@curie.fr
 floriane.noel@curie.fr
 wilfrid.richer@curie.fr
@@ -22,7 +21,6 @@ yoann.missolo-koussou@curie.fr
 pacome.prompsy@curie.fr
 pierre-emmanuel.bonte@curie.fr
 mandy.cadix@curie.fr
-nathalie.lehmann@ens.fr
 stefano.gnan@curie.fr
 rocco.cipolla@curie.fr
 marc.gabriel@curie.fr
@@ -56,12 +54,8 @@ sandra.curras-alonso@curie.fr
 mathias.vandenbogaert@curie.fr
 wenjie.sun@curie.fr
 helene.bugaut@curie.fr
-mathieu.bahin@minosbiosciences.com
 ouardia.ait-mohamed@curie.fr
 bioinfo-clinique@curie.fr
-jules.gilet@inserm.fr 
-gael.blivet@espci.fr
-aurelien.dereynies@ligue-cancer.net 
 camille.benoist@curie.fr
 eleonore.frouin@curie.fr
 victor.renault@curie.fr
@@ -88,16 +82,13 @@ arnaud.meng@curie.fr
 marion.salou@curie.fr
 hugo.croizer@curie.fr
 sandrine.grossetete-lalami@curie.fr
-cantini@bio.ens.psl.eu
 luc.cabel@curie.fr
 chloe.quignot@curie.fr
 fatima.mechta-grigoriou@curie.fr
 emmanuel.barillot@curie.fr
 sebastien.lemaire@curie.fr
-lucile.massenet@inserm.fr
 linda.bilonda-mutala@curie.fr
 anne-laure.le-gac@curie.fr
-coline.gardou@minosbiosciences.com
 juliette.soulier@curie.fr
 hugo.laporte@curie.fr
 maxime.dubail@curie.fr
@@ -106,8 +97,6 @@ paul.klein@curie.fr
 melissa.saichi@curie.fr
 julien.vibert@curie.fr
 jing.liu@curie.fr
-christophe.caux@lyon.unicancer.fr
-SarahHelene.MERKLING@pasteur.fr
 Elodie.Girard@curie.fr
 calvin-steve.rodrigues@curie.fr
 leanne.de-koning@curie.fr
@@ -115,10 +104,21 @@ loic.chadoutaud@curie.fr
 thomas.defard@curie.fr
 ines.pires-santos-ramos-pinheiro@curie.fr
 erkan.narmanli@curie.fr
-CB_UTechS_team@pasteur.fr
-single_cell@pasteur.fr
-helene.lopez-maestre@pasteur.fr
 yuna.landais@curie.fr
-Margaux.HUBERT@lyon.unicancer.fr
 gregoire.jouault@curie.fr
 
+coline.gardou@minosbiosciences.com
+christophe.caux@lyon.unicancer.fr
+SarahHelene.MERKLING@pasteur.fr
+single_cell@pasteur.fr
+Margaux.HUBERT@lyon.unicancer.fr
+CB_UTechS_team@pasteur.fr
+olivier.piau@inserm.fr
+cantini@bio.ens.psl.eu
+jules.gilet@inserm.fr 
+gael.blivet@espci.fr
+aurelien.dereynies@ligue-cancer.net
+nathalie.lehmann@ens.fr
+helene.lopez-maestre@pasteur.fr
+mathieu.bahin@minosbiosciences.com
+lucile.massenet@inserm.fr
