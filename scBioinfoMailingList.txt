@@ -117,8 +117,8 @@ olivier.piau@inserm.fr
 cantini@bio.ens.psl.eu
 jules.gilet@inserm.fr 
 gael.blivet@espci.fr
-aurelien.dereynies@ligue-cancer.net
 nathalie.lehmann@ens.fr
 helene.lopez-maestre@pasteur.fr
 mathieu.bahin@minosbiosciences.com
 lucile.massenet@inserm.fr
+aurelien.de-reynies@parisdescartes.fr
