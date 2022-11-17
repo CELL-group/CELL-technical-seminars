@@ -122,3 +122,5 @@ helene.lopez-maestre@pasteur.fr
 mathieu.bahin@minosbiosciences.com
 lucile.massenet@inserm.fr
 aurelien.de-reynies@parisdescartes.fr
+marine.aglave@gustaveroussy.fr
+remy.jelin@gustaveroussy.fr
