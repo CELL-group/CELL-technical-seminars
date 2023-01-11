@@ -124,3 +124,4 @@ lucile.massenet@inserm.fr
 aurelien.de-reynies@parisdescartes.fr
 marine.aglave@gustaveroussy.fr
 remy.jelin@gustaveroussy.fr
+paul-arthur.meslin@inserm.fr
