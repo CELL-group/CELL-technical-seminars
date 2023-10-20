@@ -127,4 +127,5 @@ remy.jelin@gustaveroussy.fr
 paul-arthur.meslin@inserm.fr
 selim.turan@inserm.fr
 mhaeussl@ucsc.edu
+thibault.thomasbonafos@curie.fr
 
